@@ -1,0 +1,21 @@
+set $wallpaper /home/shikikan/wallpaper/shizuku.png
+
+set $background #1f2129
+set $foreground #e9e7e7
+
+set $color0 #1f2129
+set $color1 #9EB5C8
+set $color2 #A8C7D8
+set $color3 #BBDFEF
+set $color4 #BAE1F3
+set $color5 #DAC0C1
+set $color6 #D1CCD6
+set $color7 #e9e7e7
+set $color8 #a3a1a1
+set $color9 #9EB5C8
+set $color10 #A8C7D8
+set $color11 #BBDFEF
+set $color12 #BAE1F3
+set $color13 #DAC0C1
+set $color14 #D1CCD6
+set $color15 #e9e7e7

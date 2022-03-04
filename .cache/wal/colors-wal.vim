@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/shikikan/wallpaper/shizuku.png"
+let background = "#1f2129"
+let foreground = "#e9e7e7"
+let cursor     = "#e9e7e7"
+
+" Colors
+let color0  = "#1f2129"
+let color1  = "#9EB5C8"
+let color2  = "#A8C7D8"
+let color3  = "#BBDFEF"
+let color4  = "#BAE1F3"
+let color5  = "#DAC0C1"
+let color6  = "#D1CCD6"
+let color7  = "#e9e7e7"
+let color8  = "#a3a1a1"
+let color9  = "#9EB5C8"
+let color10 = "#A8C7D8"
+let color11 = "#BBDFEF"
+let color12 = "#BAE1F3"
+let color13 = "#DAC0C1"
+let color14 = "#D1CCD6"
+let color15 = "#e9e7e7"

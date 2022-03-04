@@ -1,0 +1,24 @@
+wallpaper: "/home/shikikan/wallpaper/shizuku.png"
+
+special:
+    background: "#1f2129"
+    foreground: "#e9e7e7"
+    cursor: "#e9e7e7"
+
+colors:
+    color0: "#1f2129"
+    color1: "#9EB5C8"
+    color2: "#A8C7D8"
+    color3: "#BBDFEF"
+    color4: "#BAE1F3"
+    color5: "#DAC0C1"
+    color6: "#D1CCD6"
+    color7: "#e9e7e7"
+    color8: "#a3a1a1"
+    color9: "#9EB5C8"
+    color10: "#A8C7D8"
+    color11: "#BBDFEF"
+    color12: "#BAE1F3"
+    color13: "#DAC0C1"
+    color14: "#D1CCD6"
+    color15: "#e9e7e7"
